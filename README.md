@@ -1,7 +1,8 @@
 # Netflix Churn Predictor
 
-[Netflix Churn Predictor]([Assets/Churn Predictor.png](https://github.com/PrayujaTeli/Churn-Predictor/blob/main/Assets/Churn%20Predictor.png))
-
+<p align="center">
+  <img src="[https://raw.githubusercontent.com/PrayujaTeli/Amusement-Park/main/AmusmentPark.jpeg](https://github.com/PrayujaTeli/Churn-Predictor/blob/main/Assets/Churn%20Predictor.png)" alt="Netflix Churn Predictor">
+</p>
 Welcome to the Netflix Churn Predictor project! This project aims to forecast user churn on a Netflix-like streaming platform using advanced machine-learning techniques. The goal is to enhance user retention by providing insights and recommendations based on user behavior.
 
 ## Table of Contents
