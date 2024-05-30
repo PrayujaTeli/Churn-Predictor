@@ -1,4 +1,3 @@
-# Netflix Churn Predictor
 
 <p align="center">
   <img src="https://github.com/PrayujaTeli/Churn-Predictor/blob/main/Assets/Churn%20Predictor.png" alt="Netflix Churn Predictor">
