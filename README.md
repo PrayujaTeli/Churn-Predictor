@@ -1,5 +1,7 @@
 # Netflix Churn Predictor
 
+![Netflix Churn Predictor](Assets/Churn Predictor.png)
+
 Welcome to the Netflix Churn Predictor project! This project aims to forecast user churn on a Netflix-like streaming platform using advanced machine-learning techniques. The goal is to enhance user retention by providing insights and recommendations based on user behavior.
 
 ## Table of Contents
