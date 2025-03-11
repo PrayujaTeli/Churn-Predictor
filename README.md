@@ -16,6 +16,11 @@ Welcome to the Netflix Churn Predictor project! This project aims to forecast us
 - [Contact](#contact)
 - [FAQs](#faqs)
 
+
+Check out the dashboard - [Link]([https://public.tableau.com/views/MusicGenrePredictionModel/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link](https://public.tableau.com/shared/QG7CMQC3N?:display_count=n&:origin=viz_share_link))
+
+![Dashboard 1](https://github.com/PrayujaTeli/Churn-Predictor/blob/main/Dashboard.png)
+
 ## Introduction
 
 The Netflix Churn Predictor is designed to help streaming platforms anticipate and mitigate user churn. By leveraging machine learning algorithms, the system provides personalized recommendations and predictive insights to improve user engagement and retention.
