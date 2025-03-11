@@ -17,7 +17,8 @@ Welcome to the Netflix Churn Predictor project! This project aims to forecast us
 - [FAQs](#faqs)
 
 
-Check out the dashboard - [Link]([https://public.tableau.com/views/MusicGenrePredictionModel/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link](https://public.tableau.com/shared/QG7CMQC3N?:display_count=n&:origin=viz_share_link))
+
+Check out the dashboard - [Link](https://public.tableau.com/views/NetflixChurnPredictor/Netflix?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ![Dashboard 1](https://github.com/PrayujaTeli/Churn-Predictor/blob/main/Dashboard.png)
 
